@@ -24,3 +24,5 @@ $ vagrant destroy -f
 
 ## 정의한 인프라
 ![image](https://user-images.githubusercontent.com/43487002/225531403-03bc9a4c-5059-484a-835b-4eea68bc6690.png)
+![image](https://user-images.githubusercontent.com/108319883/258684418-23e0f92a-e987-4b90-a602-05c38922743c.png)
+
